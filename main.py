@@ -20,12 +20,12 @@ DEFAULT_START = ("Hi, I am NFLK Maha Zona Bot.\n\n"
                  "Just Forward me Some messages or\n"
                  "media and I will Anonymize & Protect the\n"
                  "Telegram Files.\n\n"
-                 "**Note -** __You Can Saved Your files. of\n__"
-                 "__Super Fast Zender. This Bot is\n__"
-                 "__Copyright Infringement Protect\n__"
+                 "**Note -** __You Can Saved Your Files Using me.\n__"
+                 "__I am a Super Fast Zender. This Bot can protect files against\n__"
+                 "__Copyright Infringement \n__"
                  "__100% !!\n\n__"
-                 "Please Support The Developer\n"
-                 "By Joining the Support Channel👇👇")
+                 "Please Support The NFLK\n"
+                 "By Join to Our NFLK Channel👇")
 
 
 if Credentials.START_MESSAGE is not None:
