@@ -16,14 +16,14 @@ client = TelegramClient('Telethon Anonymous Bot',
                     api_id = Credentials.API_ID,
                     api_hash=Credentials.API_HASH).start(bot_token=Credentials.BOT_TOKEN)
 
-DEFAULT_START = ("Hi, I am NFLK Anonimize Bot.\n\n"
+DEFAULT_START = ("Hi, I am NFLK Maha Zona Bot.\n\n"
                  "Just Forward me Some messages or\n"
-                 "media and I will Anonymize the\n"
-                 "sender.\n\n"
-                 "**Note -** __We Dont Promote Circulation of\n__"
-                 "__Copyright Contents. This Bot is\n__"
-                 "__Created for Educational Purpose\n__"
-                 "__Only !!\n\n__"
+                 "media and I will Anonymize & Protect the\n"
+                 "Telegram Files.\n\n"
+                 "**Note -** __You Can Saved Your files. of\n__"
+                 "__Super Fast Zender. This Bot is\n__"
+                 "__Copyright Infringement Protect\n__"
+                 "__100% !!\n\n__"
                  "Please Support The Developer\n"
                  "By Joining the Support Channel👇👇")
 
