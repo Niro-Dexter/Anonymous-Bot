@@ -16,7 +16,7 @@ client = TelegramClient('Telethon Anonymous Bot',
                     api_id = Credentials.API_ID,
                     api_hash=Credentials.API_HASH).start(bot_token=Credentials.BOT_TOKEN)
 
-DEFAULT_START = ("Hi, %%username%% I am NFLK Maha Zona Bot.\n\n"
+DEFAULT_START = ("Hi, I am NFLK Maha Zona Bot 😈.\n\n"
                  "Just Forward me Some messages or\n"
                  "media and I will Anonymize & Protect the\n"
                  "Telegram Files.\n\n"
