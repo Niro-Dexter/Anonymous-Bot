@@ -16,13 +16,13 @@ client = TelegramClient('Telethon Anonymous Bot',
                     api_id = Credentials.API_ID,
                     api_hash=Credentials.API_HASH).start(bot_token=Credentials.BOT_TOKEN)
 
-DEFAULT_START = ("Hi, I am NFLK Maha Zona Bot.\n\n"
+DEFAULT_START = ("Hi, %%username%% I am NFLK Maha Zona Bot.\n\n"
                  "Just Forward me Some messages or\n"
                  "media and I will Anonymize & Protect the\n"
                  "Telegram Files.\n\n"
                  "**Note -** __You Can Save your files using me.\n__"
                  "__ඔයාට Copyrights වලින් ආරක්ශා කරගන්න අවශ්‍ය Files මට Foward කරන්න.\n__"
-                 "__තව Copyrights Infringement වැදුන Files තියනව නම් ඒවත් මට Foward කරන්න,සමහර විට මට පුලුවන් වෙයි ඒවා Backup කරලා දෙන්න.(60%) \n__"
+                 "__තව Copyrights Infringement වැදුන Files තියනව නම් ඒවත් මට Foward කරන්න,සමහර විට මට පුලුවන් වෙයි ඒවා Recover කරලා දෙන්න.(60%) \n__"
                  "__ !!\n\n__"
                  "Please Support The NFLK\n"
                  "By Join to our NFLK Channel👇")
